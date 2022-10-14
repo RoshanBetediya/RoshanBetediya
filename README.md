@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RoshanBetediya
-- 👀 I’m interested in Data science/ML/DL
-- 🌱 I’m currently learning Time series forecasting in ML
-- 💞️ I’m looking to collaborate on ML/DL projects
-- 📫 How to reach me +918438183539
+Namaste 🙏 I am Roshan Betediya. Welcome to my repository🖐.
 
-<!---
-RoshanBetediya/RoshanBetediya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a data analytics professional and I love business intelligence and insights extraction. I believe data is the very fabric of human existence, and exploring the past ensures a better future.
+
+This is the place where I house the results of hundreds of hours spent on gathering and investigating data on a variety of different topics/issues.
